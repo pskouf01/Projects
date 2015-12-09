@@ -1,0 +1,13 @@
+English texts/english1.txt
+English texts/english2.txt
+RO texts/ro1.txt
+RO texts/ro2.txt
+French texts/french1.txt
+French texts/french2.txt
+German texts/german1.txt
+German texts/german2.txt
+HR texts/hr1.txt
+HR texts/hr2.txt
+Spanish texts/spanish1.txt
+Spanish texts/spanish2.txt
+Unknown texts/german2.txt
