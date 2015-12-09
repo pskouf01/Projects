@@ -1,0 +1,13 @@
+nn	data/L1.data1
+nn	data/L1.data2
+out	data/L2.data1
+ness	data/L3.data1
+ness	data/L3.data2
+nn	data/L1.data3
+out	data/L2.data2
+out	data/L2.data3
+ness	data/L3.data3
+Unknown	data/unk.data1
+Unknown	data/unk.data2
+Unknown	data/unk.data3
+Unknown	data/unk.data4
